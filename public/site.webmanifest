@@ -1,6 +1,6 @@
 {
-  "name": "Template",
-  "short_name": "Template",
+  "name": "Time Tracking Dashboard",
+  "short_name": "Time Tracking Dashboard",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
